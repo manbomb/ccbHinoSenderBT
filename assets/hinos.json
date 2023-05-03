@@ -1,0 +1,2432 @@
+[
+    {
+        "id": 1,
+        "bpmMin": 56,
+        "bpmMax": 66
+    },
+    {
+        "id": 2,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 3,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 4,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 5,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 6,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 7,
+        "bpmMin": 80,
+        "bpmMax": 100
+    },
+    {
+        "id": 8,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 9,
+        "bpmMin": 63,
+        "bpmMax": 72
+    },
+    {
+        "id": 10,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 11,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 12,
+        "bpmMin": 58,
+        "bpmMax": 76
+    },
+    {
+        "id": 13,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 14,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 15,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 16,
+        "bpmMin": 100,
+        "bpmMax": 120
+    },
+    {
+        "id": 17,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 18,
+        "bpmMin": 76,
+        "bpmMax": 92
+    },
+    {
+        "id": 19,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 20,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 21,
+        "bpmMin": 116,
+        "bpmMax": 138
+    },
+    {
+        "id": 22,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 23,
+        "bpmMin": 96,
+        "bpmMax": 120
+    },
+    {
+        "id": 24,
+        "bpmMin": 88,
+        "bpmMax": 100
+    },
+    {
+        "id": 25,
+        "bpmMin": 54,
+        "bpmMax": 72
+    },
+    {
+        "id": 26,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 27,
+        "bpmMin": 116,
+        "bpmMax": 144
+    },
+    {
+        "id": 28,
+        "bpmMin": 69,
+        "bpmMax": 80
+    },
+    {
+        "id": 29,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 30,
+        "bpmMin": 100,
+        "bpmMax": 132
+    },
+    {
+        "id": 31,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 32,
+        "bpmMin": 52,
+        "bpmMax": 72
+    },
+    {
+        "id": 33,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 34,
+        "bpmMin": 50,
+        "bpmMax": 66
+    },
+    {
+        "id": 35,
+        "bpmMin": 108,
+        "bpmMax": 120
+    },
+    {
+        "id": 36,
+        "bpmMin": 84,
+        "bpmMax": 100
+    },
+    {
+        "id": 37,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 38,
+        "bpmMin": 56,
+        "bpmMax": 72
+    },
+    {
+        "id": 39,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 40,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 41,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 42,
+        "bpmMin": 50,
+        "bpmMax": 60
+    },
+    {
+        "id": 43,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 44,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 45,
+        "bpmMin": 96,
+        "bpmMax": 120
+    },
+    {
+        "id": 46,
+        "bpmMin": 92,
+        "bpmMax": 126
+    },
+    {
+        "id": 47,
+        "bpmMin": 120,
+        "bpmMax": 152
+    },
+    {
+        "id": 48,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 49,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 50,
+        "bpmMin": 108,
+        "bpmMax": 144
+    },
+    {
+        "id": 51,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 52,
+        "bpmMin": 108,
+        "bpmMax": 144
+    },
+    {
+        "id": 53,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 54,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 55,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 56,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 57,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 58,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 59,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 60,
+        "bpmMin": 116,
+        "bpmMax": 132
+    },
+    {
+        "id": 61,
+        "bpmMin": 132,
+        "bpmMax": 144
+    },
+    {
+        "id": 62,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 63,
+        "bpmMin": 46,
+        "bpmMax": 56
+    },
+    {
+        "id": 64,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 65,
+        "bpmMin": 42,
+        "bpmMax": 54
+    },
+    {
+        "id": 66,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 67,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 68,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 69,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 70,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 71,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 72,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 73,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 74,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 75,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 76,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 77,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 78,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 79,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 80,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 81,
+        "bpmMin": 108,
+        "bpmMax": 120
+    },
+    {
+        "id": 82,
+        "bpmMin": 54,
+        "bpmMax": 72
+    },
+    {
+        "id": 83,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 84,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 85,
+        "bpmMin": 66,
+        "bpmMax": 92
+    },
+    {
+        "id": 86,
+        "bpmMin": 80,
+        "bpmMax": 108
+    },
+    {
+        "id": 87,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 88,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 89,
+        "bpmMin": 80,
+        "bpmMax": 96
+    },
+    {
+        "id": 90,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 91,
+        "bpmMin": 92,
+        "bpmMax": 120
+    },
+    {
+        "id": 92,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 93,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 94,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 95,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 96,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 97,
+        "bpmMin": 42,
+        "bpmMax": 52
+    },
+    {
+        "id": 98,
+        "bpmMin": 88,
+        "bpmMax": 126
+    },
+    {
+        "id": 99,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 100,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 101,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 102,
+        "bpmMin": 116,
+        "bpmMax": 144
+    },
+    {
+        "id": 103,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 104,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 105,
+        "bpmMin": 44,
+        "bpmMax": 60
+    },
+    {
+        "id": 106,
+        "bpmMin": 58,
+        "bpmMax": 72
+    },
+    {
+        "id": 107,
+        "bpmMin": 40,
+        "bpmMax": 50
+    },
+    {
+        "id": 108,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 109,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 110,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 111,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 112,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 113,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 114,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 115,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 116,
+        "bpmMin": 108,
+        "bpmMax": 138
+    },
+    {
+        "id": 117,
+        "bpmMin": 132,
+        "bpmMax": 152
+    },
+    {
+        "id": 118,
+        "bpmMin": 100,
+        "bpmMax": 120
+    },
+    {
+        "id": 119,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 120,
+        "bpmMin": 76,
+        "bpmMax": 92
+    },
+    {
+        "id": 121,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 122,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 123,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 124,
+        "bpmMin": 80,
+        "bpmMax": 96
+    },
+    {
+        "id": 125,
+        "bpmMin": 96,
+        "bpmMax": 120
+    },
+    {
+        "id": 126,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 127,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 128,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 129,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 130,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 131,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 132,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 133,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 134,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 135,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 136,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 137,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 138,
+        "bpmMin": 104,
+        "bpmMax": 144
+    },
+    {
+        "id": 139,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 140,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 141,
+        "bpmMin": 100,
+        "bpmMax": 120
+    },
+    {
+        "id": 142,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 143,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 144,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 145,
+        "bpmMin": 108,
+        "bpmMax": 138
+    },
+    {
+        "id": 146,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 147,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 148,
+        "bpmMin": 56,
+        "bpmMax": 72
+    },
+    {
+        "id": 149,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 150,
+        "bpmMin": 54,
+        "bpmMax": 69
+    },
+    {
+        "id": 151,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 152,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 153,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 154,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 155,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 156,
+        "bpmMin": 63,
+        "bpmMax": 88
+    },
+    {
+        "id": 157,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 158,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 159,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 160,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 161,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 162,
+        "bpmMin": 40,
+        "bpmMax": 48
+    },
+    {
+        "id": 163,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 164,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 165,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 166,
+        "bpmMin": 96,
+        "bpmMax": 126
+    },
+    {
+        "id": 167,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 168,
+        "bpmMin": 69,
+        "bpmMax": 80
+    },
+    {
+        "id": 169,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 170,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 171,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 172,
+        "bpmMin": 54,
+        "bpmMax": 63
+    },
+    {
+        "id": 173,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 174,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 175,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 176,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 177,
+        "bpmMin": 40,
+        "bpmMax": 50
+    },
+    {
+        "id": 178,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 179,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 180,
+        "bpmMin": 76,
+        "bpmMax": 88
+    },
+    {
+        "id": 181,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 182,
+        "bpmMin": 56,
+        "bpmMax": 66
+    },
+    {
+        "id": 183,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 184,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 185,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 186,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 187,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 188,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 189,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 190,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 191,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 192,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 193,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 194,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 195,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 196,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 197,
+        "bpmMin": 84,
+        "bpmMax": 104
+    },
+    {
+        "id": 198,
+        "bpmMin": 76,
+        "bpmMax": 100
+    },
+    {
+        "id": 199,
+        "bpmMin": 88,
+        "bpmMax": 120
+    },
+    {
+        "id": 200,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 201,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 202,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 203,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 204,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 205,
+        "bpmMin": 42,
+        "bpmMax": 56
+    },
+    {
+        "id": 206,
+        "bpmMin": 100,
+        "bpmMax": 138
+    },
+    {
+        "id": 207,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 208,
+        "bpmMin": 44,
+        "bpmMax": 54
+    },
+    {
+        "id": 209,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 210,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 211,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 212,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 213,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 214,
+        "bpmMin": 66,
+        "bpmMax": 76
+    },
+    {
+        "id": 215,
+        "bpmMin": 44,
+        "bpmMax": 60
+    },
+    {
+        "id": 216,
+        "bpmMin": 100,
+        "bpmMax": 132
+    },
+    {
+        "id": 217,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 218,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 219,
+        "bpmMin": 40,
+        "bpmMax": 50
+    },
+    {
+        "id": 220,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 221,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 222,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 223,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 224,
+        "bpmMin": 54,
+        "bpmMax": 66
+    },
+    {
+        "id": 225,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 226,
+        "bpmMin": 69,
+        "bpmMax": 76
+    },
+    {
+        "id": 227,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 228,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 229,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 230,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 231,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 232,
+        "bpmMin": 60,
+        "bpmMax": 84
+    },
+    {
+        "id": 233,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 234,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 235,
+        "bpmMin": 84,
+        "bpmMax": 104
+    },
+    {
+        "id": 236,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 237,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 238,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 239,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 240,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 241,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 242,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 243,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 244,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 245,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 246,
+        "bpmMin": 116,
+        "bpmMax": 132
+    },
+    {
+        "id": 247,
+        "bpmMin": 100,
+        "bpmMax": 132
+    },
+    {
+        "id": 248,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 249,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 250,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 251,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 252,
+        "bpmMin": 80,
+        "bpmMax": 100
+    },
+    {
+        "id": 253,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 254,
+        "bpmMin": 52,
+        "bpmMax": 66
+    },
+    {
+        "id": 255,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 256,
+        "bpmMin": 100,
+        "bpmMax": 120
+    },
+    {
+        "id": 257,
+        "bpmMin": 116,
+        "bpmMax": 144
+    },
+    {
+        "id": 258,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 259,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 260,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 261,
+        "bpmMin": 50,
+        "bpmMax": 66
+    },
+    {
+        "id": 262,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 263,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 264,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 265,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 266,
+        "bpmMin": 54,
+        "bpmMax": 69
+    },
+    {
+        "id": 267,
+        "bpmMin": 80,
+        "bpmMax": 92
+    },
+    {
+        "id": 268,
+        "bpmMin": 126,
+        "bpmMax": 152
+    },
+    {
+        "id": 269,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 270,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 271,
+        "bpmMin": 80,
+        "bpmMax": 96
+    },
+    {
+        "id": 272,
+        "bpmMin": 42,
+        "bpmMax": 52
+    },
+    {
+        "id": 273,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 274,
+        "bpmMin": 56,
+        "bpmMax": 66
+    },
+    {
+        "id": 275,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 276,
+        "bpmMin": 58,
+        "bpmMax": 72
+    },
+    {
+        "id": 277,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 278,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 279,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 280,
+        "bpmMin": 116,
+        "bpmMax": 144
+    },
+    {
+        "id": 281,
+        "bpmMin": 88,
+        "bpmMax": 100
+    },
+    {
+        "id": 282,
+        "bpmMin": 92,
+        "bpmMax": 126
+    },
+    {
+        "id": 283,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 284,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 285,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 286,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 287,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 288,
+        "bpmMin": 108,
+        "bpmMax": 120
+    },
+    {
+        "id": 289,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 290,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 291,
+        "bpmMin": 76,
+        "bpmMax": 92
+    },
+    {
+        "id": 292,
+        "bpmMin": 63,
+        "bpmMax": 88
+    },
+    {
+        "id": 293,
+        "bpmMin": 92,
+        "bpmMax": 126
+    },
+    {
+        "id": 294,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 295,
+        "bpmMin": 54,
+        "bpmMax": 69
+    },
+    {
+        "id": 296,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 297,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 298,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 299,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 300,
+        "bpmMin": 63,
+        "bpmMax": 88
+    },
+    {
+        "id": 301,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 302,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 303,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 304,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 305,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 306,
+        "bpmMin": 92,
+        "bpmMax": 116
+    },
+    {
+        "id": 307,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 308,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 309,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 310,
+        "bpmMin": 58,
+        "bpmMax": 72
+    },
+    {
+        "id": 311,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 312,
+        "bpmMin": 80,
+        "bpmMax": 104
+    },
+    {
+        "id": 313,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 314,
+        "bpmMin": 84,
+        "bpmMax": 100
+    },
+    {
+        "id": 315,
+        "bpmMin": 80,
+        "bpmMax": 100
+    },
+    {
+        "id": 316,
+        "bpmMin": 44,
+        "bpmMax": 56
+    },
+    {
+        "id": 317,
+        "bpmMin": 92,
+        "bpmMax": 132
+    },
+    {
+        "id": 318,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 319,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 320,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 321,
+        "bpmMin": 58,
+        "bpmMax": 69
+    },
+    {
+        "id": 322,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 323,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 324,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 325,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 326,
+        "bpmMin": 100,
+        "bpmMax": 120
+    },
+    {
+        "id": 327,
+        "bpmMin": 76,
+        "bpmMax": 92
+    },
+    {
+        "id": 328,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 329,
+        "bpmMin": 96,
+        "bpmMax": 138
+    },
+    {
+        "id": 330,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 331,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 332,
+        "bpmMin": 116,
+        "bpmMax": 132
+    },
+    {
+        "id": 333,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 334,
+        "bpmMin": 69,
+        "bpmMax": 80
+    },
+    {
+        "id": 335,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 336,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 337,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 338,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 339,
+        "bpmMin": 112,
+        "bpmMax": 132
+    },
+    {
+        "id": 340,
+        "bpmMin": 108,
+        "bpmMax": 132
+    },
+    {
+        "id": 341,
+        "bpmMin": 92,
+        "bpmMax": 132
+    },
+    {
+        "id": 342,
+        "bpmMin": 88,
+        "bpmMax": 112
+    },
+    {
+        "id": 343,
+        "bpmMin": 72,
+        "bpmMax": 88
+    },
+    {
+        "id": 344,
+        "bpmMin": 96,
+        "bpmMax": 126
+    },
+    {
+        "id": 345,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 346,
+        "bpmMin": 96,
+        "bpmMax": 116
+    },
+    {
+        "id": 347,
+        "bpmMin": 116,
+        "bpmMax": 138
+    },
+    {
+        "id": 348,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 349,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 350,
+        "bpmMin": 76,
+        "bpmMax": 92
+    },
+    {
+        "id": 351,
+        "bpmMin": 100,
+        "bpmMax": 116
+    },
+    {
+        "id": 352,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 353,
+        "bpmMin": 58,
+        "bpmMax": 69
+    },
+    {
+        "id": 354,
+        "bpmMin": 69,
+        "bpmMax": 80
+    },
+    {
+        "id": 355,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 356,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 357,
+        "bpmMin": 56,
+        "bpmMax": 72
+    },
+    {
+        "id": 358,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 359,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 360,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 361,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 362,
+        "bpmMin": 112,
+        "bpmMax": 152
+    },
+    {
+        "id": 363,
+        "bpmMin": 54,
+        "bpmMax": 72
+    },
+    {
+        "id": 364,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 365,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 366,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 367,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 368,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 369,
+        "bpmMin": 120,
+        "bpmMax": 138
+    },
+    {
+        "id": 370,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 371,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 372,
+        "bpmMin": 88,
+        "bpmMax": 120
+    },
+    {
+        "id": 373,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 374,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 375,
+        "bpmMin": 40,
+        "bpmMax": 54
+    },
+    {
+        "id": 376,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 377,
+        "bpmMin": 54,
+        "bpmMax": 72
+    },
+    {
+        "id": 378,
+        "bpmMin": 56,
+        "bpmMax": 72
+    },
+    {
+        "id": 379,
+        "bpmMin": 76,
+        "bpmMax": 84
+    },
+    {
+        "id": 380,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 381,
+        "bpmMin": 100,
+        "bpmMax": 126
+    },
+    {
+        "id": 382,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 383,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 384,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 385,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 386,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 387,
+        "bpmMin": 104,
+        "bpmMax": 126
+    },
+    {
+        "id": 388,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 389,
+        "bpmMin": 100,
+        "bpmMax": 138
+    },
+    {
+        "id": 390,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 391,
+        "bpmMin": 58,
+        "bpmMax": 72
+    },
+    {
+        "id": 392,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 393,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 394,
+        "bpmMin": 69,
+        "bpmMax": 80
+    },
+    {
+        "id": 395,
+        "bpmMin": 92,
+        "bpmMax": 112
+    },
+    {
+        "id": 396,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 397,
+        "bpmMin": 66,
+        "bpmMax": 80
+    },
+    {
+        "id": 398,
+        "bpmMin": 50,
+        "bpmMax": 63
+    },
+    {
+        "id": 399,
+        "bpmMin": 120,
+        "bpmMax": 144
+    },
+    {
+        "id": 400,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 401,
+        "bpmMin": 63,
+        "bpmMax": 88
+    },
+    {
+        "id": 402,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 403,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 404,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 405,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 406,
+        "bpmMin": 72,
+        "bpmMax": 84
+    },
+    {
+        "id": 407,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 408,
+        "bpmMin": 46,
+        "bpmMax": 54
+    },
+    {
+        "id": 409,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 410,
+        "bpmMin": 40,
+        "bpmMax": 60
+    },
+    {
+        "id": 411,
+        "bpmMin": 54,
+        "bpmMax": 69
+    },
+    {
+        "id": 412,
+        "bpmMin": 46,
+        "bpmMax": 58
+    },
+    {
+        "id": 413,
+        "bpmMin": 50,
+        "bpmMax": 69
+    },
+    {
+        "id": 414,
+        "bpmMin": 54,
+        "bpmMax": 69
+    },
+    {
+        "id": 415,
+        "bpmMin": 80,
+        "bpmMax": 100
+    },
+    {
+        "id": 416,
+        "bpmMin": 52,
+        "bpmMax": 63
+    },
+    {
+        "id": 417,
+        "bpmMin": 84,
+        "bpmMax": 108
+    },
+    {
+        "id": 418,
+        "bpmMin": 112,
+        "bpmMax": 138
+    },
+    {
+        "id": 419,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 420,
+        "bpmMin": 50,
+        "bpmMax": 66
+    },
+    {
+        "id": 421,
+        "bpmMin": 80,
+        "bpmMax": 112
+    },
+    {
+        "id": 422,
+        "bpmMin": 80,
+        "bpmMax": 100
+    },
+    {
+        "id": 423,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 424,
+        "bpmMin": 58,
+        "bpmMax": 80
+    },
+    {
+        "id": 425,
+        "bpmMin": 108,
+        "bpmMax": 126
+    },
+    {
+        "id": 426,
+        "bpmMin": 44,
+        "bpmMax": 60
+    },
+    {
+        "id": 427,
+        "bpmMin": 44,
+        "bpmMax": 58
+    },
+    {
+        "id": 428,
+        "bpmMin": 56,
+        "bpmMax": 60
+    },
+    {
+        "id": 429,
+        "bpmMin": 50,
+        "bpmMax": 60
+    },
+    {
+        "id": 430,
+        "bpmMin": 96,
+        "bpmMax": 112
+    },
+    {
+        "id": 431,
+        "bpmMin": 63,
+        "bpmMax": 88
+    },
+    {
+        "id": 432,
+        "bpmMin": 84,
+        "bpmMax": 108
+    },
+    {
+        "id": 433,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 434,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 435,
+        "bpmMin": 63,
+        "bpmMax": 76
+    },
+    {
+        "id": 436,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 437,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 438,
+        "bpmMin": 100,
+        "bpmMax": 138
+    },
+    {
+        "id": 439,
+        "bpmMin": 66,
+        "bpmMax": 92
+    },
+    {
+        "id": 440,
+        "bpmMin": 63,
+        "bpmMax": 92
+    },
+    {
+        "id": 441,
+        "bpmMin": 52,
+        "bpmMax": 69
+    },
+    {
+        "id": 442,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 443,
+        "bpmMin": 60,
+        "bpmMax": 88
+    },
+    {
+        "id": 444,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 445,
+        "bpmMin": 72,
+        "bpmMax": 92
+    },
+    {
+        "id": 446,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 447,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 448,
+        "bpmMin": 92,
+        "bpmMax": 126
+    },
+    {
+        "id": 449,
+        "bpmMin": 66,
+        "bpmMax": 92
+    },
+    {
+        "id": 450,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 451,
+        "bpmMin": 104,
+        "bpmMax": 132
+    },
+    {
+        "id": 452,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 453,
+        "bpmMin": 88,
+        "bpmMax": 116
+    },
+    {
+        "id": 454,
+        "bpmMin": 104,
+        "bpmMax": 126
+    },
+    {
+        "id": 455,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 456,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 457,
+        "bpmMin": 104,
+        "bpmMax": 144
+    },
+    {
+        "id": 458,
+        "bpmMin": 56,
+        "bpmMax": 76
+    },
+    {
+        "id": 459,
+        "bpmMin": 112,
+        "bpmMax": 144
+    },
+    {
+        "id": 460,
+        "bpmMin": 69,
+        "bpmMax": 88
+    },
+    {
+        "id": 461,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 462,
+        "bpmMin": 69,
+        "bpmMax": 84
+    },
+    {
+        "id": 463,
+        "bpmMin": 66,
+        "bpmMax": 88
+    },
+    {
+        "id": 464,
+        "bpmMin": 60,
+        "bpmMax": 72
+    },
+    {
+        "id": 465,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 466,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 467,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 468,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 469,
+        "bpmMin": 76,
+        "bpmMax": 84
+    },
+    {
+        "id": 470,
+        "bpmMin": 69,
+        "bpmMax": 92
+    },
+    {
+        "id": 471,
+        "bpmMin": 58,
+        "bpmMax": 76
+    },
+    {
+        "id": 472,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 473,
+        "bpmMin": 66,
+        "bpmMax": 84
+    },
+    {
+        "id": 474,
+        "bpmMin": 60,
+        "bpmMax": 84
+    },
+    {
+        "id": 475,
+        "bpmMin": 60,
+        "bpmMax": 84
+    },
+    {
+        "id": 476,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 477,
+        "bpmMin": 63,
+        "bpmMax": 84
+    },
+    {
+        "id": 478,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 479,
+        "bpmMin": 63,
+        "bpmMax": 80
+    },
+    {
+        "id": 480,
+        "bpmMin": 108,
+        "bpmMax": 138
+    },
+    {
+        "id": 481,
+        "bpmMin": 60,
+        "bpmMax": 80
+    },
+    {
+        "id": 482,
+        "bpmMin": 54,
+        "bpmMax": 66
+    },
+    {
+        "id": 483,
+        "bpmMin": 58,
+        "bpmMax": 76
+    },
+    {
+        "id": 484,
+        "bpmMin": 60,
+        "bpmMax": 84
+    },
+    {
+        "id": 485,
+        "bpmMin": 60,
+        "bpmMax": 76
+    },
+    {
+        "id": 486,
+        "bpmMin": 60,
+        "bpmMax": 76
+    }
+]
