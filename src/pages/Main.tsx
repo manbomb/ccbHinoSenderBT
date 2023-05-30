@@ -91,6 +91,7 @@ const Main = () => {
                 autoHide: false,
             });
         } catch (e) {
+            console.error(e);
             Toast.show({
                 type: 'error',
                 text1: 'Erro ao tentar enviar o hino!',
